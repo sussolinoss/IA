@@ -20,7 +20,7 @@ Si tratta di una rete neurale che impara a risolvere il problema logico XOR, uti
 
 ## Come testarlo?
 1. Clona la repository
-2. Compila ed esegui la classe `App`
+2. Compila ed esegui la classe `Main`
 3. Guarda i risultati di training e predizione stampati in console
 
 ## Esempio di output (Training)
